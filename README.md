@@ -26,4 +26,5 @@ Fake and real news dataset from Kaggle:
 
 🙋‍♂️ Author
 Name: Micheal Omotosho
+
 GitHub: @DataMindMedic
