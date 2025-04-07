@@ -5,7 +5,7 @@ A machine learning application built with Streamlit that detects fake news artic
 This Streamlit web app allows users to paste a news article and instantly find out whether it's **Fake or Real**, using an XGBoost machine learning model trained on real news data.
 
 ## 🚀 Live App
-👉 [Launch the App](https://yourname-fake-news.streamlit.app)
+👉 Launch the App : https://fake-news-detector-checker.streamlit.app/
 
 ## 📁 Features
 - TF-IDF + XGBoost model
