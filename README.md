@@ -24,3 +24,6 @@ This Streamlit web app allows users to paste a news article and instantly find o
 Fake and real news dataset from Kaggle:
 [https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset]
 
+🙋‍♂️ Author
+Name: Micheal Omotosho
+GitHub: @DataMindMedic
